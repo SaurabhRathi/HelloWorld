@@ -56,7 +56,8 @@ class TBT
 int main()
 {
 	TBT t;
-	t.root.getnode();
+	t.root.getnode(); 
+	cout << "rathi's changes";
 }
 //try catch
 
